@@ -92,17 +92,23 @@ After installing Cursor and clicking **Login**, the app opened a **browser-based
 1. Closed the **Cursor web** session.
 <img width="1235" height="665" alt="image (9)" src="https://github.com/user-attachments/assets/04c678ef-fb76-46f8-91ad-69d691c7f58a" />
 
+
 2. Reopened the **Cursor desktop app** on my laptop.
 <img width="1004" height="679" alt="image (1)" src="https://github.com/user-attachments/assets/f7aac00c-a15e-499e-94fb-9798606d4037" />
+
 
 3. Selected **File → Open Editor Window**.
 <img width="1178" height="704" alt="13c16aa2-bfab-44a8-90fb-eb1830af13d0" src="https://github.com/user-attachments/assets/f1a87b90-cf93-45ca-86ed-a8c87887fdb7" />
 
+
 4. In the Editor Window: **File → Open Folder** and opened the existing **`Sudaryanto Safei`** folder.
 <img width="1064" height="678" alt="image (2)" src="https://github.com/user-attachments/assets/afd33372-75ac-4b17-8fd1-50d357feab27" />
 
+
 5. Installed extensions via **View → Extensions** in the desktop editor.
 <img width="618" height="694" alt="image (4)" src="https://github.com/user-attachments/assets/c191da8c-2813-46e7-9c6b-8b7fb4e939ef" />
+
+
 
 
 
@@ -124,8 +130,10 @@ I used a simpler workflow without cloning:
 2. Wrote the full report (applications, steps, challenges) based on the assignment text.
 <img width="1392" height="777" alt="image (8)" src="https://github.com/user-attachments/assets/dc81dea3-ea0b-4a50-91e8-e5ad7f8d1a24" />
 
+
 3. On the **GitHub** website, added a new file **`Readme.md`** to the public repository and **pasted** the report content.
 <img width="1511" height="772" alt="image (6)" src="https://github.com/user-attachments/assets/e49398da-c677-4fd4-bb3b-14fac3e74819" />
+
 
 4. Saved the file on GitHub to publish the documentation.
 
